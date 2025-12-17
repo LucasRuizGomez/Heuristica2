@@ -3,6 +3,8 @@ from constraint import *
 
 
 
+
+#Funcion auxiliar para ayuda en la impresion
 def encuadrado(filas):
     n = len(filas)
     top = "+" + "-" * n + "+"
